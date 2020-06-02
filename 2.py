@@ -8,8 +8,13 @@ print("only local server is changed!!")
 
 print("booo")
 
+
 a=11
 
 
 
 a=12
+
+a=12
+b=17
+
